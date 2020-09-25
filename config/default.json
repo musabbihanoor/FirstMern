@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://musabbiha:musabbiha@cluster0.fahdh.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://musabbiha:musabbiha@cluster0.fahdh.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
