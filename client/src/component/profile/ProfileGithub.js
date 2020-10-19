@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React, { useEffect } from 'react'; 
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux'
 import Spinner from '../layout/Spinner'
@@ -40,7 +40,7 @@ const ProfileGithub = ({ username, getGithubRepos, repos }) => {
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> 
                 ))
             )}
         </div>
