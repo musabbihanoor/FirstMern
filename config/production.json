@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://musabbiha:musabbiha@cluster0.fahdh.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubclientid": "272e9908a307b3d772ae",
+  "githubsecret": "989f42fc2b3f2fee1fb0fff311b359f3c3d7b3f2"
+}
